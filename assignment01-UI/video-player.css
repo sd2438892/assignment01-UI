@@ -1,0 +1,44 @@
+h2 { 
+    text-align: center;
+}
+
+#video-html5 {
+    float:left;
+    padding:50px 50px 50px 50px;
+}
+
+video {
+    width:600px;
+    height:400px;
+    background:#a0a0a0;
+}
+
+.progress {
+    margin: auto;
+    width:600px;
+    height:16px;
+    margin-bottom: 5px;
+    background-color: pink;
+}
+progress::-moz-progress-bar { background:#a0a0ff; }
+
+#video-play-list {
+    float:left;
+    padding:50px 50px 50px 50px;
+    width: 600px;
+    margin: auto;
+}
+#video-play-list h3 {
+    font-size:24px;
+}
+
+#video-play-list li {
+    cursor:pointer;
+    padding-left:15px;
+}
+
+
+
+
+
+
